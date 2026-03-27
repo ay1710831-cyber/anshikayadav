@@ -7,10 +7,9 @@
 ---
 
 ## 🚀 About Me
-- 🎓 B.Com Graduate + Data Analytics Course
-- 📊 Passionate about Data Analysis & Visualization
-- 💡 Skilled in Power BI, SQL, Excel & Python
-- 🎯 Goal: Become a Professional Data Analyst
+📊 Aspiring Data Analyst skilled in Power BI, SQL, Excel, and Python  
+💡 I love turning raw data into meaningful insights and interactive dashboards  
+🎯 Currently building real-world projects to grow in the field of data analytics  
 
 ---
 
@@ -50,16 +49,30 @@
 
 ---
 
+## ⚡ GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anshikayadav&theme=radical"/>
+</p>
+
+---
+
 ## 📁 Projects
 
 ### 📊 Superstore Dashboard
-👉 https://github.com/anshikayadav/superstore-dashboard
+🔗 https://github.com/anshikayadav/superstore-dashboard  
+📌 Power BI dashboard analyzing sales, profit, and regional performance  
+
+---
 
 ### 📈 Courses Analysis Dashboard
-👉 https://github.com/anshikayadav/courses-analysis
+🔗 https://github.com/anshikayadav/courses-analysis  
+📌 Insights on course trends, enrollments, and performance  
+
+---
 
 ### 📉 Sales Data Analysis
-👉 https://github.com/anshikayadav/sales-analysis
+🔗 https://github.com/anshikayadav/sales-analysis  
+📌 Data analysis using Excel/SQL to identify business trends  
 
 ---
 
