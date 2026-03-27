@@ -1,51 +1,73 @@
-<h1 align="center">Hii 👋, I'm Anshika Yadav</h1>
-<h3 align="center">Aspiring Data Analyst 📊</h3>
+<h1 align="center">Hi 👋, I'm Anshika Yadav</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Data+Analyst;Power+BI+Developer;SQL+%7C+Excel+%7C+Python;Turning+Data+into+Insights📊" />
+</p>
 
 ---
 
-## 🙋‍♀️ About Me
-- 🎯 I’m currently learning **Data Analytics**
-- 📊 Skilled in **Power BI, SQL, Excel**
-- 📈 Interested in **Data Visualization & Insights**
-- 💡 Goal: Become a Data Analyst
+## 🚀 About Me
+- 🎓 B.Com Graduate + Data Analytics Course
+- 📊 Passionate about Data Analysis & Visualization
+- 💡 Skilled in Power BI, SQL, Excel & Python
+- 🎯 Goal: Become a Professional Data Analyst
 
 ---
 
-## 🌐 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/your-link" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-</a>
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
 </p>
 
 ---
 
 ## 🛠 Tech Stack
-![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql)
-![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql"/>
+  <br><br>
+  <img src="https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Excel-green?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Anshika's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anshikayadav&show_icons=true&theme=radical"/>
+</p>
 
 ---
 
 ## 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshikayadav&layout=compact&theme=radical"/>
+</p>
 
 ---
 
-## 📂 Projects
-- 📊 Superstore Dashboard (Power BI)
-- 📈 Courses Analysis Dashboard
-- 📉 Sales Data Analysis
+## 📁 Projects
+
+### 📊 Superstore Dashboard
+👉 https://github.com/anshikayadav/superstore-dashboard
+
+### 📈 Courses Analysis Dashboard
+👉 https://github.com/anshikayadav/courses-analysis
+
+### 📉 Sales Data Analysis
+👉 https://github.com/anshikayadav/sales-analysis
 
 ---
 
-⭐️ From [Anshika Yadav](https://github.com/YOUR_USERNAME)
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anshikayadav&label=Profile%20Views&color=blue&style=flat"/>
+</p>
+
+---
+
+⭐ From Anshika Yadav
