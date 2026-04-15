@@ -15,10 +15,10 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+  <a href=https://www.linkedin.com/in/anshika-yadav-a4a095351/
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href=https://mail.google.com/mail/u/0/#inbox
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
